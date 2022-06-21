@@ -24,3 +24,5 @@ Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matc
 5. The program uses a modified version of Irving's Algorithm to create rooms. However at this point, the output is ID's of the student from the original DataFrame. 
 
 6. The program then converts the ID's into the actual data of each student in a group. 
+
+7. The program outputs `rooms.csv`. This file contains the room allocations and can be imported into Google Sheets or Microsoft Excel.

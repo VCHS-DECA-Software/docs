@@ -7,3 +7,4 @@ toc = true
 bref = "Full-stack platform to schedule mock DECA conferences"
 +++
 
+### [GitHub Repository](https://github.com/VCHS-DECA-Software/Event-Scheduler)

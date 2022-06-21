@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "VCHS DECA Software"
+theme = "kube"
+description = "VCHS DECA Software is a set of tools for the VCHS DECA operations team."
+Paginate = 4
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "FAQ"
+    weight = -100
+    url = "/faq/"

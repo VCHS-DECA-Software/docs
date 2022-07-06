@@ -13,7 +13,7 @@ bref = "Automatically create roommate groups for DECA trips"
 
 Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matcher/blob/1467d7250a9ff51ab5eebb111f0a5a21aa56bd37/README.md) to get started.
 
-### How it works
+### How it Works
 
 1. The program converts the CSV file into a Pandas DataFrame.
 

@@ -26,7 +26,7 @@ Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matc
 
 If any of these conditions fail, then the student will be appended to `errors.csv`.
 
-4. Iterating through each DataFrame, the program assigns a score/weight to the preferences (First preference: 10, Second preference: 7, Third preference: 4). The program checks for missing preferences and students assigning themselves as a preference. If this happens, the program will print out the error. 
+4. Iterating through each DataFrame, the program assigns a score/weight to the preferences (First preference: 10, Second preference: 7, Third preference: 4). 
 
 5. The program uses a modified version of Irving's Algorithm to create rooms. However at this point, the output is ID's of the student from the original DataFrame. 
 

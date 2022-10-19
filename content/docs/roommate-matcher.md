@@ -11,7 +11,7 @@ bref = "Automatically create roommate groups for DECA trips"
 
 ### How to Use
 
-Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matcher/blob/1467d7250a9ff51ab5eebb111f0a5a21aa56bd37/README.md) to get started.
+Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matcher/README.md) to get started.
 
 ### How it Works
 

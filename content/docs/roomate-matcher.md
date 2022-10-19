@@ -19,7 +19,10 @@ Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matc
 
 2. The program uses the dataframe to create a square matrix with the number of rows and columns equal to the number of students.
 
-3. The program then separates the students into cohorts. There are 4 cohorts: underclassmen boys, underclassmen girls, upperclassmen boys, and upperclassmen girls. This is to comply with the school policies for creating rooms. 
+3. The program then runs a series of checks for each of the student's preferences to make sure that:
+- The student's preference has filled out the form
+- The student has not entered themselves as a preference 
+- The student and their preference are not more than one grade level apart (VCHS DECA policy)
 
 4. Iterating through each DataFrame, the program assigns a score/weight to the preferences (First preference: 10, Second preference: 7, Third preference: 4). The program checks for missing preferences and students assigning themselves as a preference. If this happens, the program will print out the error. 
 

@@ -22,6 +22,7 @@ Follow the directions [here](https://github.com/VCHS-DECA-Software/Roommate-Matc
 3. The program then runs a series of checks for each of the student's preferences to make sure that:
 - The student's preference has filled out the form
 - The student has not entered themselves as a preference 
+- The student and their preference are the same gender (VCHS DECA policy)
 - The student and their preference are not more than one grade level apart (VCHS DECA policy)
 
 If any of these conditions fail, then the student will be appended to `errors.csv`.

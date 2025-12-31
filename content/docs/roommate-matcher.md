@@ -7,7 +7,7 @@ toc = true
 bref = "Automatically create roommate groups for DECA trips"
 +++
 
-### [GitHub Repository](https://github.com/VCHS-DECA-Software/Roommate-Matcher)
+### [GitHub Repository](https://github.com/VCHS-DECA-Software/RoommateMatcher)
 
 ## Overview
 

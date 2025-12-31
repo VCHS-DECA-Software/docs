@@ -127,9 +127,17 @@ Your CSV file should include these columns:
 - Email address
 - Grade level
 - Gender
-- First preference (name)
-- Second preference (name)
-- Third preference (name)
+- First preference (email)
+- Second preference (email)
+- Third preference (email)
+
+Here's an example of the Google Form structure for collecting preferences:
+
+![Google Form Questionnaire](https://user-images.githubusercontent.com/66145155/171505113-8369ce68-fcdd-4066-92b7-139e056b36aa.png)
+
+And the resulting spreadsheet columns from form responses:
+
+![Google Sheet Columns](https://user-images.githubusercontent.com/66145155/171505374-3c4b0403-4e09-43de-8d95-c46dcfc78acf.png)
 
 ## Output
 

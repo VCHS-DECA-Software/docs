@@ -46,7 +46,7 @@ For each student's preferences, the program validates:
 | **Form Completion** | The preferred roommate must have submitted the form |
 | **Self-Reference** | Students cannot list themselves as a preference |
 | **Gender Match** | Students must be the same gender (VCHS DECA policy) |
-| **Grade Proximity** | Students cannot be more than one grade level apart |
+| **Grade Proximity** | Students cannot be more than one grade level apart (VCHS DECA policy) |
 
 Failed validations are logged to `errors.csv` for follow-up.
 
@@ -122,14 +122,9 @@ Roommate-Matcher/
 
 ### Input Format
 
-Your CSV file should include these columns:
-- Student name
-- Email address
-- Grade level
-- Gender
-- First preference (email)
-- Second preference (email)
-- Third preference (email)
+Your CSV file must include the exact columns as shown in the image below.
+
+**Important: Enable the "Collect email addresses" option. Questions marked with (*) are required for the program. Questions must match the exact wording shown below.**
 
 Here's an example of the Google Form structure for collecting preferences:
 
